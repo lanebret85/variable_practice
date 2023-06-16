@@ -9,3 +9,7 @@ year = 2023
 pi = 3.14
 km = 1.6
 kg = 2.2
+
+is_hungry = true
+is_sleepy = false
+is_happy = true
